@@ -1,4 +1,4 @@
-baseURL = "http://kamma.cc/"
+baseURL = "https://kamma.cc/"
 languageCode = "zh-Hans"
 title = "Kamma's Blog"
 theme = "hyde"
