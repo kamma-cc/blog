@@ -1,0 +1,7 @@
+baseURL = "http://kamma.cc/"
+languageCode = "zh-Hans"
+title = "Kamma's Blog"
+theme = "hyde"
+
+[Params]
+description = "代码易维护 架构可扩展"
