@@ -4,14 +4,17 @@
   
   <url>
     <loc>https://kamma.cc/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kamma.cc/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kamma.cc/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
